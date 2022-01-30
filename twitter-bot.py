@@ -8,7 +8,7 @@ import tweepy
 # Own modules
 from config import *
 
-
+#deployheroku
 logging.basicConfig(format='%(levelname)s [%(asctime)s] %(message)s', datefmt='%m/%d/%Y %r', level=logging.INFO)
 logger = logging.getLogger()
 
